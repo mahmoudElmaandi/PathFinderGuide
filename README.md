@@ -3,6 +3,13 @@
 
 وبعد توليد الاحتمالات، بإمكان الطالب معاينتها في صورة جدول دراسي وفلترتها حسب أيام الحضور سعيا لإيجاد الجدول المناسب لحياته الشخصية والجامعية.
 
+## 🔗 روابط  التواصل
+[![Whatsapp](https://img.shields.io/badge/whatsapp-group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://bit.ly/regwa2022)
+[![FaceBook](https://img.shields.io/badge/facebook-page-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://bit.ly/reg-fbp)
+[![Telegram](https://img.shields.io/badge/telegram-group-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://bit.ly/reg-telegram)
+[![Discord](https://img.shields.io/badge/discord-server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://bit.ly/reg-discord)
+
+
 # الغرض من الشرح
 تمكين الطالب من استخدام السكربت بشكل فردي في عمل جدوله دون أي اعتماد على شخص أو جهة أخرى
  
